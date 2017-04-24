@@ -1,7 +1,6 @@
 {
   "name": "lecture-ci-env",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "react": "^15.5.4",
     "react-scripts": "0.9.5",
